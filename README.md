@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-<h1 align="left">Hi 👋, I'm Ibrahim (Deibrim)</h1>
-<p align="left">l am a web /mobile app developer who is proficient in front-end frameworks such as React. I have been fascinated with building web applications and solving problems using programming. My passion lies in learning about the latest technologies and creating responsive Ul's.</p>
+<h3 align="left">Hi 👋, I'm Ibrahim (Deibrim)</h3>
+<p align="left">I am a web / mobile app developer who is proficient in front-end frameworks such as React. I have been fascinated with building web applications and solving problems using programming. My passion lies in learning about the latest technologies and creating responsive Ul's.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deibrim&label=Profile%20views&color=0e75b6&style=flat" alt="deibrim" /> </p>
 
